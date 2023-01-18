@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">kingpowertest</string>
+    <string name="error_something_went_wrong">Something went wrong</string>
+    <string name="main_screen_title">Photos</string>
+    <string name="detail_scene_title">Detail</string>
+    <string name="thumbnail_content_description">thumbnail_image</string>
+    <string name="image_content_description">image</string>
+    <string name="card_item_content_description">card_item</string>
+    <string name="detail_screen_content_description">detail_screen_content_description</string>
+</resources>
